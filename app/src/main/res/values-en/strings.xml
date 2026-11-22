@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Study Days</string>
+    <string name="screen_title">30 days of study</string>
+    <string name="day_label">Day %1$d</string>
+    <string name="navigate_back">Back</string>
+    <string name="tip_image">Tip illustration</string>
+</resources>
